@@ -8,3 +8,5 @@ Mehmet Emre Cebeci
 
 Ahmet Kaan Demirci
 21050111031
+
+Note: 100/95 (missing null input control)
