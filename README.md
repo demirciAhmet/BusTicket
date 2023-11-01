@@ -8,10 +8,12 @@ messages you want to deliver about your project submission. In zip file there wi
 file.I will examine it then I may ask you to present it to me. If there is a presentation, then I will ask questions to
 you so it is not guaranteed that all project members will take the same grades from the project.
 You may use only the techniques and libraries we covered in the course.
+
 In this mini project, you will try to obtain a Value (or closest Value) for given Values. Note that this value can be
 any kind of object, i.e. numbers. Operators are addition, subtraction, and multiplication and their behavior on
 values is defined by you. As you can see in this problem order of operator is not important since parenthesis are
 used.
+
 For example, if the values are in number type and input numbers are 11, 7, 12, 6 and output number is 41 then you
 should output
 ```
@@ -30,6 +32,7 @@ then you should output
 As you see you also need to change the behavior of addition, subtraction, and multiplication for letters. Distance
 between the obtained word (NAR) and target word (NAR) is zero so you did it. But distance between NAR and NBR
 is -1 (see the shared distance function for finding the distances between 2 strings).
+
 So here, + concatenates characters/strings, * puts the second one after each letter of the first one, and - removes
 the character from the first one.
 ```
