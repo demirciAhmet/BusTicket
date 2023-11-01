@@ -1,4 +1,6 @@
-# CENG114-Mini-Project
+# CENG114 Mini Project Asignment
+
+## Project instructions:
 
 For the mini-project, students will form project groups (3-5 students team). You will submit the project (only one
 student in the team will submit it). Put a readme.txt file in your zip file so that I can see group members and any
@@ -12,29 +14,29 @@ values is defined by you. As you can see in this problem order of operator is no
 used.
 For example, if the values are in number type and input numbers are 11, 7, 12, 6 and output number is 41 then you
 should output
-
+```
 (((12 - 7) * 6) + 11) = 41
-
+```
 since
-
+```
 (((12 - 7) * 6) + 11) > ((5 * 6) + 11) > (30 + 11) > 41
-
+```
 Please also note that, you do not need to use all values to reach output value.
-As another example, your inputs are characters (single or multiple) such as R, A, N, A and desired output is NAR
+As another example, your inputs are characters (single or multiple) such as `R, A, N, A` and desired output is `NAR`
 then you should output
-
+```
 (((N + R) * A) - A) > ((NR * A) - A) > (NARA - A) > NAR
-
+```
 As you see you also need to change the behavior of addition, subtraction, and multiplication for letters. Distance
 between the obtained word (NAR) and target word (NAR) is zero so you did it. But distance between NAR and NBR
 is -1 (see the shared distance function for finding the distances between 2 strings).
 So here, + concatenates characters/strings, * puts the second one after each letter of the first one, and - removes
 the character from the first one.
-
+```
 Example 1: KABA - C > KABA (C is not found)
 Example 2: KABA - B > KAA
 Example 3: KABA - A > KAB
-
+```
 - operators are fixed: addition, subtraction, multiplication
 - output is single but input variables can be in any number. so there can be 3 inputs, or 5, or 30. so your
 implementation should able to get any number of input. you do not need to get input and output data from console.
