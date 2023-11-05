@@ -6,9 +6,6 @@
 - [Osman Oğuz Erol](https://github.com/KendineCoder)
 - [Me](https://github.com/terrabladex)
 
-
-Note: 100/95 (missing null input control)
-
 ## Project instructions:
 
 For the mini-project, students will form project groups (3-5 students team). You will submit the project (only one
