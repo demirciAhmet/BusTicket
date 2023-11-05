@@ -4,7 +4,7 @@
 
 - [Mehmet Emre Cebeci](https://github.com/mec1mec3)
 - [Osman Oğuz Erol](https://github.com/KendineCoder)
-- [Me](https://github.com/terrabladex)
+- [Ahmet Kaan Demirci (Me)](https://github.com/terrabladex)
 
 ## Project instructions:
 
