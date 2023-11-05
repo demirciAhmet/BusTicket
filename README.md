@@ -2,9 +2,9 @@
 
 ## Group Members:
 
-[Mehmet Emre Cebeci](https://github.com/mec1mec3)
-[Osman Oğuz Erol](https://github.com/KendineCoder)
-[Me](https://github.com/terrabladex)
+- [Mehmet Emre Cebeci](https://github.com/mec1mec3)
+- [Osman Oğuz Erol](https://github.com/KendineCoder)
+- [Me](https://github.com/terrabladex)
 
 
 Note: 100/95 (missing null input control)
