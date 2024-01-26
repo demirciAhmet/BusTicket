@@ -1,3 +1,7 @@
+# Introduction
+
+"This is a three member group mini-project for the Computer Programming II course, focusing on recursion and generics in Java. The primary objective is to develop a program capable of obtaining a specific value or the closest possible value through a combination of given input values. The program supports various data types, including integers, characters, and user-defined data types."
+
 ## Project instructions:
 
 For the mini-project, students will form project groups (3-5 students team). You will submit the project (only one
