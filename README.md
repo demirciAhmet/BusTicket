@@ -1,11 +1,3 @@
-# CENG114 Mini Project Asignment
-
-## Group Members:
-
-- [Mehmet Emre Cebeci](https://github.com/mec1mec3)
-- [Osman Oğuz Erol](https://github.com/KendineCoder)
-- [Ahmet Kaan Demirci (Me)](https://github.com/terrabladex)
-
 ## Project instructions:
 
 For the mini-project, students will form project groups (3-5 students team). You will submit the project (only one
@@ -59,3 +51,10 @@ you will addition, subtraction, multiplication for integer, and you should have 
 multiplication for letters etc. for example Cat + Dog can be Cow if you defined addition in that behavior.
 Use is-a and has-a mechanisms, inheritance, interfaces, aggregation, composition, polymorphism, constructors
 etc. and create a good and flexible (and extendable) software.
+
+
+## Group Members:
+
+- [Mehmet Emre Cebeci](https://github.com/mec1mec3)
+- [Osman Oğuz Erol](https://github.com/KendineCoder)
+- [Ahmet Kaan Demirci (Me)](https://github.com/demirciAhmet)
