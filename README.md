@@ -68,4 +68,4 @@ etc. and create a good and flexible (and extendable) software.
 
 - [Mehmet Emre Cebeci](https://github.com/mec1mec3)
 - [Osman Oğuz Erol](https://github.com/KendineCoder)
-- [Ahmet Kaan Demirci (Me)](https://github.com/demirciAhmet)
+- [Ahmet Kaan Demirci](https://github.com/demirciAhmet)
