@@ -66,6 +66,6 @@ etc. and create a good and flexible (and extendable) software.
 
 ## Group Members:
 
-- [Mehmet Emre Cebeci](https://github.com/mec1mec3)
+- [Mehmet Emre Cebeci](https://github.com/mecebeci)
 - [Osman Oğuz Erol](https://github.com/KendineCoder)
 - [Ahmet Kaan Demirci](https://github.com/demirciAhmet)
